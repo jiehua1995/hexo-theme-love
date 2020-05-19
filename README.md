@@ -63,5 +63,13 @@ date:
 
 <a href="https://github.com/jiehua1995"><img src="https://blog.jiehua1995.xyz/img/avatar.jpeg" height="30px"></img></a>
 
+## Donate
+
+Can you buy me a cup of coffee? I will update this theme recently.
+<details>
+    <summary>QR code</summary>
+    <img width="600" src="https://cdn.jsdelivr.net/gh/jiehua1995/CDN@master/ImageHosing/20200520024523.jpg" alt="sponsor">
+</details>
+
 ## License
 MIT
