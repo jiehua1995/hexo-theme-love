@@ -22,7 +22,7 @@ git clone https://github.com/jiehua1995/hexo-theme-love.git themes/love
 
   Please modify the name in the theme config file.
 
-  (Check next step: **What you should do**)
+  (Check next step: **[What you should do](https://github.com/jiehua1995/hexo-theme-love/blob/master/README.md#what-you-should-do)**)
 
   Set the blog config file's theme value as love.
 
