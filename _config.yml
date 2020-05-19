@@ -1,0 +1,30 @@
+#Jimmy Kudo是工藤新一英文名，Rachel Moore是毛利兰英文名
+lover:
+  boy: Jimmy Kudo
+  girl: Rachel Moore
+
+date:
+  start: "1994-04-01 00:00:00"
+
+##音乐播放器
+# https://github.com/MoePlayer/APlayer
+# https://github.com/metowolf/MetingJS
+playlist:
+  server: netease #音乐平台: netease, tencent, kugou, xiami, baidu
+  type: playlist #类型：song, playlist, album, search, artist
+  id: 2042070338 #ID：song id, playlist id, album id, search keyword
+  fixed: true
+  autoplay: true #可选：自动播放true,不自动播放false
+  order: list #可选：随机random，列表list
+  loop: all #可选：全部循环all, 单曲循环 one, 不循环 none
+
+##背景特效
+# https://github.com/hustcc/canvas-nest.js
+# 配置详见： https://github.com/hustcc/canvas-nest.js#configuration
+canvas_nest:
+  enable: true
+  color: '177, 122, 125'        # color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+  pointColor: '156,39,176'     # color of points, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+  opacity: '2'               # the opacity of line (0~1), default: 0.5.
+  count: '200'                  # the number of lines, default: 99.
+  zIndex: '-1'                 # z-index property of the background, default: -1.

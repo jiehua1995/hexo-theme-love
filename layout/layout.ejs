@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!--layout.ejs的意思是共用的布局文件-->
+<!--partial()是个函数，来包含其他文件，使得我们能够更好的组织代码。-->
+<html>
+  <%- partial('_partial/head') %>
+  <body>
+    <div class="container">
+      <%- partial('_partial/header') %>
+
+      <main class="main">
+      <%- body %>
+      </main>
+
+      <% if (theme.canvas_nest.enable){ %>
+        <script type="text/javascript" color="<%=theme.canvas_nest.color %>" opacity="<%=theme.canvas_nest.opacity %>" 
+            zIndex="<%=theme.canvas_nest.zIndex %>" count="<%=theme.canvas_nest.count %>" 
+            src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
+        </script>
+      <% } %>
+
+    </div>
+
+  </body>
+</html>
+

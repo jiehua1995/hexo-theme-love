@@ -1,2 +1,58 @@
-# hexo-theme-love
-A simple hexo theme for couples. 请大家撒狗粮
+# Love
+
+> Love make the impossible possible. 爱让不可能变为可能。
+
+Love is a HEXO theme designed for couples.
+
+![hexo-theme-love](https://cdn.jsdelivr.net/gh/jiehua1995/CDN@master/ImageHosing/20200520010416.png)
+
+## Usage
+
+- Clone
+
+```bash
+cd your_blog_boot_dir
+git clone https://github.com/jiehua1995/hexo-theme-love.git themes/love
+```
+
+- Modification
+
+  Please modify the name in the theme config file.
+
+  (Check next step: **What you should do**)
+
+  Set the blog config file's theme value as love.
+
+- More about this theme, please contact me without hesitation.
+
+## What you should do 
+
+- Change name in theme config file.
+
+  There is not any attitude towards your sexual orientation. Please ask me how to modify this theme if you don't like to be called as boy or girl.
+
+```yaml
+lover:
+  boy: Jimmy Kudo 
+  girl: Rachel Moore
+```
+
+- Change date.
+
+  Change to the start date of your love.
+
+```yacas
+date:
+  start: "1994-04-01 00:00:00"
+```
+
+### Love proverbs I want to share with you
+
+>  Where there is love there is no darkness.
+>
+> Love is a many splintered thing.
+>
+> You never feel sleepy when you fall in love.
+> 
+> Love understands all languages.
+
