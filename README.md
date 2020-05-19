@@ -2,6 +2,12 @@
 
 > Love make the impossible possible. 爱让不可能变为可能。
 
+
+[【Demo】](https://blog.jiehua1995.xyz/hexo-theme-love)
+[【示例网站】](https://blog.jiehua1995.xyz/hexo-theme-love)
+
+</br>
+
 [【English README.md】](https://github.com/jiehua1995/hexo-theme-love/wiki/English-README.md)
 [【中文说明文档】](https://github.com/jiehua1995/hexo-theme-love/wiki/%E4%B8%AD%E6%96%87-README.md)
 
