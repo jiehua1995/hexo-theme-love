@@ -2,6 +2,9 @@
 
 > Love make the impossible possible. 爱让不可能变为可能。
 
+[【English README.md】](https://github.com/jiehua1995/hexo-theme-love/wiki/English-README.md)
+[【中文说明文档】](https://github.com/jiehua1995/hexo-theme-love/wiki/%E4%B8%AD%E6%96%87-README.md)
+
 Love is a HEXO theme designed for couples.
 
 ![hexo-theme-love](https://cdn.jsdelivr.net/gh/jiehua1995/CDN@master/ImageHosing/20200520010416.png)
@@ -46,7 +49,7 @@ date:
   start: "1994-04-01 00:00:00"
 ```
 
-### Love proverbs I want to share with you
+## Love proverbs I want to share with you
 
 >  Where there is love there is no darkness.
 >
@@ -56,3 +59,9 @@ date:
 > 
 > Love understands all languages.
 
+## Maintainers
+
+<a href="https://github.com/jiehua1995"><img src="https://blog.jiehua1995.xyz/img/avatar.jpeg" height="30px"></img></a>
+
+## License
+MIT
