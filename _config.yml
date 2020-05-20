@@ -28,3 +28,10 @@ canvas_nest:
   opacity: '2'               # the opacity of line (0~1), default: 0.5.
   count: '200'                  # the number of lines, default: 99.
   zIndex: '-1'                 # z-index property of the background, default: -1.
+
+
+
+##网页统计
+#百度统计
+baidu_analysis:
+  uid: 
