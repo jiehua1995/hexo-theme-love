@@ -15,6 +15,10 @@ Love is a HEXO theme designed for couples.
 
 ![hexo-theme-love](https://cdn.jsdelivr.net/gh/jiehua1995/CDN@master/ImageHosing/20200520010416.png)
 
+## Lovers
+
+[Send an email to me](mailto:fdjiehua@gmail.com) if you want to show your page here.
+
 ## Usage
 
 - Clone
