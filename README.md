@@ -19,6 +19,12 @@ Love is a HEXO theme designed for couples.
 
 [Send an email to me](mailto:fdjiehua@gmail.com) if you want to show your page here.
 
+Please give me information like:
+```
+Lover: tom & jerry
+Start time: 1994-12-15 11:11
+```
+
 ## Usage
 
 - Clone
