@@ -3,8 +3,8 @@
 > Love make the impossible possible. 爱让不可能变为可能。
 
 
-[【Demo】](https://blog.jiehua1995.xyz/hexo-theme-love)
-[【示例网站】](https://blog.jiehua1995.xyz/hexo-theme-love)
+[【Demo】](https://one.jiehua1995.xyz/hexo-theme-love)
+[【示例网站】](https://one.jiehua1995.xyz/hexo-theme-love)
 
 </br>
 
