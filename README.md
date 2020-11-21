@@ -1,6 +1,6 @@
 # Love
 
-> Love make the impossible possible. 爱让不可能变为可能。
+> Love makes the impossible possible. 爱让不可能变为可能。
 
 
 [【Demo】](https://one.jiehua1995.xyz/hexo-theme-love)
@@ -20,6 +20,7 @@ Love is a HEXO theme designed for couples.
 [Send an email to me](mailto:fdjiehua@gmail.com) if you want to show your page here.
 
 Please give me information like:
+
 ```
 Lover: tom & jerry
 Start time: 1994-12-15 11:11
