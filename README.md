@@ -14,6 +14,7 @@
 Love is a HEXO theme designed for couples.
 
 ![hexo-theme-love](https://cdn.jsdelivr.net/gh/jiehua1995/CDN@master/ImageHosing/20200520010416.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjiehua1995%2Fhexo-theme-love.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjiehua1995%2Fhexo-theme-love?ref=badge_shield)
 
 ## Lovers
 
@@ -94,3 +95,6 @@ Maybe you will star this hexo theme?
 ## License
 MIT
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjiehua1995%2Fhexo-theme-love.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjiehua1995%2Fhexo-theme-love?ref=badge_large)
