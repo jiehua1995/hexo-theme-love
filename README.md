@@ -93,4 +93,4 @@ Maybe you will star this hexo theme?
 
 ## License
 MIT
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjiehua1995%2Fhexo-theme-love.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjiehua1995%2Fhexo-theme-love?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjiehua1995%2Fhexo-theme-love.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjiehua1995%2Fhexo-theme-love?ref=badge_large)
