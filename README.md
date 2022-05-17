@@ -61,9 +61,10 @@ lover:
 
   Change to the start date of your love.
 
-```yacas
+```yml
 date:
-  start: "1994-04-01 00:00:00"
+# safari does not support date format like "1994-04-01 00:00:00", chrome supports both "1994-04-01 00:00:00" and "1994/04/01 00:00:00"
+  start: "1994/04/01 00:00:00"
 ```
 
 ## Love proverbs I want to share with you
