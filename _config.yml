@@ -4,7 +4,8 @@ lover:
   girl: Rachel Moore
 
 date:
-  start: "1994-04-01 00:00:00"
+# 时间需要符合JavaScript中的格式，safari浏览器不支持"1994-04-01 00:00:00" （
+  start: "1994/04/01 00:00:00"
 
 ##音乐播放器
 # https://github.com/MoePlayer/APlayer
