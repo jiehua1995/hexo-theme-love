@@ -1,0 +1,57 @@
+body {
+  background-color: RGB(236, 236, 234);
+  font-family: Helvetica Neue, Helvetica, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  margin: 0;
+  overflow: hidden;
+}
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.header {
+  margin-top: 2em;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+.header .blog-title .logo {
+  color: #fd637d;
+  font-size: 2em;
+  font-family: "Comic Sans MS", cursive, LiSu, sans-serif;
+  text-decoration: none;
+}
+.header .menu {
+  margin: 0;
+  padding: 0;
+  color: #fd637d;
+}
+.header .menu .menu-item {
+  display: inline-block;
+  margin-right: 10px;
+}
+.header .menu .menu-item-link {
+  color: #fd637d;
+  text-decoration: none;
+}
+.header .menu .menu-item-link:hover {
+  color: #368ccb;
+}
+.date {
+  margin: 1em auto;
+  padding: 30px 50px;
+  text-align: center;
+}
+h2 {
+  font-size: 30px;
+  color: #fd637d;
+}
+.timer {
+  font-size: 30px;
+  line-height: 1.5;
+  margin: 1em 0;
+}
+.timer b {
+  color: #fd637d;
+}
