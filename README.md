@@ -97,3 +97,4 @@ MIT
 
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjiehua1995%2Fhexo-theme-love.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjiehua1995%2Fhexo-theme-love?ref=badge_large)
+![Alt](https://repobeats.axiom.co/api/embed/139954d2e1fb2551e6744db9363810516d6d6b27.svg "Repobeats analytics image")
