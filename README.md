@@ -3,8 +3,8 @@
 > Love makes the impossible possible. 爱让不可能变为可能。
 
 
-[【Demo】](https://one.jiehua1995.xyz/hexo-theme-love)
-[【示例网站】](https://one.jiehua1995.xyz/hexo-theme-love)
+[【Demo】](https://jiehua1995.github.io/hexo-theme-love/)
+[【示例网站】](https://jiehua1995.github.io/hexo-theme-love/)
 
 </br>
 
@@ -79,7 +79,7 @@ date:
 
 ## Maintainers
 
-<a href="https://github.com/jiehua1995"><img src="https://blog.jiehua1995.xyz/img/avatar.jpeg" height="30px"></img></a>
+<a href="https://github.com/jiehua1995"><img src="https://avatars.githubusercontent.com/u/31189087?v=4" height="30px"></img></a>
 
 ## Donate
 
