@@ -2,6 +2,8 @@
 
 > Love makes the impossible possible. 爱让不可能变为可能。
 
+If you like this theme, please give it a star. I will appreciate it a lot.
+
 
 [【Demo】](https://jiehua1995.github.io/hexo-theme-love/)
 [【示例网站】](https://jiehua1995.github.io/hexo-theme-love/)
